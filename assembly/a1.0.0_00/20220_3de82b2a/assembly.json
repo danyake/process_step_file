@@ -1,0 +1,232 @@
+{
+    "tree": {
+        "root": {}
+    },
+    "root": {
+        "component": "addea840-05d3-11ec-8dcb-02c1fc826105",
+        "bodies": {
+            "add384b0-05d3-11ec-b23c-02c1fc826105": {
+                "is_visible": true
+            },
+            "addad7b0-05d3-11ec-be4c-02c1fc826105": {
+                "is_visible": true
+            },
+            "addc373e-05d3-11ec-bcc4-02c1fc826105": {
+                "is_visible": true
+            }
+        }
+    },
+    "occurrences": {},
+    "components": {
+        "addea840-05d3-11ec-8dcb-02c1fc826105": {
+            "name": "root",
+            "type": "Component",
+            "part_number": "Untitled",
+            "bodies": [
+                "add384b0-05d3-11ec-b23c-02c1fc826105",
+                "addad7b0-05d3-11ec-be4c-02c1fc826105",
+                "addc373e-05d3-11ec-bcc4-02c1fc826105"
+            ]
+        }
+    },
+    "bodies": {
+        "add384b0-05d3-11ec-b23c-02c1fc826105": {
+            "name": "Body1",
+            "type": "BRepBody",
+            "png": "add384b0-05d3-11ec-b23c-02c1fc826105.png",
+            "smt": "add384b0-05d3-11ec-b23c-02c1fc826105.smt",
+            "step": "add384b0-05d3-11ec-b23c-02c1fc826105.step",
+            "obj": "add384b0-05d3-11ec-b23c-02c1fc826105.obj",
+            "physical_properties": {
+                "center_of_mass": {
+                    "type": "Point3D",
+                    "x": 4.062411473810335,
+                    "y": 1.6503857296769542,
+                    "z": 2.673716633112735
+                },
+                "area": 8604.744686185273,
+                "volume": 14246.60826011307,
+                "density": 0.00785,
+                "mass": 111.83587484188759
+            },
+            "appearance": {
+                "id": "MaterialInv_029_physmat_aspects:Metal-045",
+                "name": "Semi-Polished"
+            },
+            "material": {
+                "appearance": {
+                    "id": "MaterialInv_029_physmat_aspects:Metal-045",
+                    "name": "Semi-Polished"
+                },
+                "id": "MaterialInv_029",
+                "name": "Steel, Mild"
+            }
+        },
+        "addad7b0-05d3-11ec-be4c-02c1fc826105": {
+            "name": "Body2",
+            "type": "BRepBody",
+            "png": "addad7b0-05d3-11ec-be4c-02c1fc826105.png",
+            "smt": "addad7b0-05d3-11ec-be4c-02c1fc826105.smt",
+            "step": "addad7b0-05d3-11ec-be4c-02c1fc826105.step",
+            "obj": "addad7b0-05d3-11ec-be4c-02c1fc826105.obj",
+            "physical_properties": {
+                "center_of_mass": {
+                    "type": "Point3D",
+                    "x": 23.29849073869576,
+                    "y": 56.75815141229203,
+                    "z": -11.185064859215913
+                },
+                "area": 7939.457919465641,
+                "volume": 12587.947446728798,
+                "density": 0.00785,
+                "mass": 98.81538745682106
+            },
+            "appearance": {
+                "id": "MaterialInv_029_physmat_aspects:Metal-045",
+                "name": "Semi-Polished"
+            },
+            "material": {
+                "appearance": {
+                    "id": "MaterialInv_029_physmat_aspects:Metal-045",
+                    "name": "Semi-Polished"
+                },
+                "id": "MaterialInv_029",
+                "name": "Steel, Mild"
+            }
+        },
+        "addc373e-05d3-11ec-bcc4-02c1fc826105": {
+            "name": "Body3",
+            "type": "BRepBody",
+            "png": "addc373e-05d3-11ec-bcc4-02c1fc826105.png",
+            "smt": "addc373e-05d3-11ec-bcc4-02c1fc826105.smt",
+            "step": "addc373e-05d3-11ec-bcc4-02c1fc826105.step",
+            "obj": "addc373e-05d3-11ec-bcc4-02c1fc826105.obj",
+            "physical_properties": {
+                "center_of_mass": {
+                    "type": "Point3D",
+                    "x": -19.839480020293433,
+                    "y": 131.25459420201335,
+                    "z": -14.670656093866429
+                },
+                "area": 8493.552387898746,
+                "volume": 15197.300121920802,
+                "density": 0.00785,
+                "mass": 119.29880595707829
+            },
+            "appearance": {
+                "id": "MaterialInv_029_physmat_aspects:Metal-045",
+                "name": "Semi-Polished"
+            },
+            "material": {
+                "appearance": {
+                    "id": "MaterialInv_029_physmat_aspects:Metal-045",
+                    "name": "Semi-Polished"
+                },
+                "id": "MaterialInv_029",
+                "name": "Steel, Mild"
+            }
+        }
+    },
+    "properties": {
+        "name": "Untitled",
+        "bounding_box": {
+            "type": "BoundingBox3D",
+            "max_point": {
+                "type": "Point3D",
+                "x": 73.70126708875044,
+                "y": 139.03696226458356,
+                "z": 68.32685881397926
+            },
+            "min_point": {
+                "type": "Point3D",
+                "x": -80.74419836631289,
+                "y": -8.004897105916942,
+                "z": -71.31619763822862
+            }
+        },
+        "vertex_count": 28,
+        "edge_count": 52,
+        "face_count": 24,
+        "loop_count": 24,
+        "shell_count": 3,
+        "body_count": 3,
+        "area": 25037.754993549657,
+        "volume": 42031.855828762666,
+        "density": 0.007850000000000001,
+        "mass": 329.95006825578696,
+        "center_of_mass": {
+            "type": "Point3D",
+            "x": 1.1812285885397016,
+            "y": 65.01489008056402,
+            "z": -7.747932428590996
+        },
+        "principal_axes": {
+            "x_axis": {
+                "type": "Vector3D",
+                "x": 0.7790706646522368,
+                "y": 0.29979838828837063,
+                "z": -0.5506085958809733,
+                "length": 0.9999999999999999
+            },
+            "y_axis": {
+                "type": "Vector3D",
+                "x": -0.47564186619291016,
+                "y": 0.8547970432583571,
+                "z": -0.20757367357469939,
+                "length": 0.9999999999999999
+            },
+            "z_axis": {
+                "type": "Vector3D",
+                "x": 0.4084283469629003,
+                "y": 0.42360705992283143,
+                "z": 0.8085439655211624,
+                "length": 0.9999999999999996
+            }
+        },
+        "xyz_moments_of_inertia": {
+            "xx": 2974264.7983899973,
+            "yy": 1302609.900999797,
+            "zz": 3099711.794231821,
+            "xy": 214696.45094020444,
+            "yz": 294896.07216486876,
+            "xz": -21897.286588210736
+        },
+        "surface_types": [
+            {
+                "surface_type": "NurbsSurfaceType",
+                "face_count": 24
+            }
+        ],
+        "vertex_valence": [
+            {
+                "valence": 3,
+                "count": 16
+            },
+            {
+                "valence": 5,
+                "count": 8
+            },
+            {
+                "valence": 4,
+                "count": 2
+            },
+            {
+                "valence": 2,
+                "count": 2
+            }
+        ],
+        "design_type": "ParametricDesignType",
+        "likes_count": 0,
+        "comments_count": 0,
+        "views_count": 451,
+        "products": [
+            "Fusion 360"
+        ],
+        "categories": [
+            "Furniture + Household"
+        ],
+        "industries": [
+            "Architecture, Engineering & Construction"
+        ]
+    }
+}
